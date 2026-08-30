@@ -1,4 +1,4 @@
- 🧪 COVID-19 Self Assessment Form (Aarogya Setu Inspired) :-
+ - COVID-19 Self Assessment Form (Aarogya Setu Inspired) :-
 
 A multi-step **COVID-19 Self Assessment Form** built using **HTML, CSS, and JavaScript**, designed to help users determine whether they need medical attention based on their responses. Inspired by the official Aarogya Setu app used during the COVID-19 pandemic in India.
 
