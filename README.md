@@ -8,7 +8,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
 
 ---
 
- 🔍 Features :-
+  Features :-
 
 - ✅ Simple and intuitive UI
 - 💻 Fully responsive design
