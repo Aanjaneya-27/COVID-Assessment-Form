@@ -12,7 +12,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
 
 -  Simple and intuitive UI
 -  Fully responsive design
-- 🧩 Multi-step questionnaire format
+-  Multi-step questionnaire format
 - 🌗 Light and dark contrasting UI layout
 - 🇮🇳 Aarogya Setu branding
 - 🎯 Realistic COVID-19 use-case demonstration
