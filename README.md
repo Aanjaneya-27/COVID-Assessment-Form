@@ -11,7 +11,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
   Features :-
 
 -  Simple and intuitive UI
-- 💻 Fully responsive design
+-  Fully responsive design
 - 🧩 Multi-step questionnaire format
 - 🌗 Light and dark contrasting UI layout
 - 🇮🇳 Aarogya Setu branding
