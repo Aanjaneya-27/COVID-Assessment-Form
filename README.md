@@ -17,7 +17,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
 - 🇮🇳 Aarogya Setu branding
 -  Realistic COVID-19 use-case demonstration
 
-  📁 Project Structure :-
+   Project Structure :-
   covid-assessment-form/
 ├── index.html
 ├── css/
