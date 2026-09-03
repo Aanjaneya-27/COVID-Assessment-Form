@@ -27,7 +27,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
 ├── assets/
 │ └── images/
 
-🛠️ Built With
+- Built With
 - HTML5
 - CSS3 (Flexbox + Shadows)
 - Vanilla JavaScript
