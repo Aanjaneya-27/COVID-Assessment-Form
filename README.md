@@ -23,7 +23,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
 ├── css/
 │ └── style.css
 ├── js/
-│ └── script.j 
+│ └── script.js
 - Built With
 - HTML5
 - CSS3 (Flexbox + Shadows)
