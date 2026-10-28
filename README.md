@@ -20,7 +20,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
    Project Structure :-
   covid-assessment-form/
 ├── index.html
-├── css/
+├── css-
 │ └── style.css
 ├── js - 
 │ └── script.js
