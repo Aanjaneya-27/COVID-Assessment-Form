@@ -22,7 +22,7 @@ This web form mimics a step-by-step health screening process. Users answer simpl
 ├── index.html
 ├── css-
 │ └── style.css
-├── js - 
+├── js :- 
 │ └── script.js
 - Built With
 - HTML5
